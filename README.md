@@ -1,4 +1,10 @@
 # Catch The Diamond 🎮💎
+![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Graphics](https://img.shields.io/badge/Graphics-OpenGL-5586A4?style=flat-square)
+![Library](https://img.shields.io/badge/Library-PyOpenGL-orange?style=flat-square)
+![Toolkit](https://img.shields.io/badge/Toolkit-GLUT-red?style=flat-square)
+![Game](https://img.shields.io/badge/Game-2D%20Arcade-green?style=flat-square)
+![Project](https://img.shields.io/badge/Project-Computer%20Graphics-purple?style=flat-square)
 
 A simple 2D arcade-style game built using **Python** and **OpenGL**, where the player controls a catcher to collect falling diamonds. The goal is to catch the diamonds before they reach the bottom of the screen.
 ---
